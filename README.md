@@ -60,3 +60,20 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+##Systéme d'exploitation utilisé
+Windows 10
+##Version des différentes outils utilisés
+wampserver 3.1.7
+composer 1.10.13
+##Version de Laravel
+8.46.0
+##Version de npm
+7.9.0
+##Version de PHP
+7.3.1
+##Etapes pour builder le projet
+1- lancer wampserver et attendez jusqu'à ce que le logo de ce dernier devient vert
+2- ouvrire l'invite de commande et localisez vous dans le projet à consulter
+3- tapez la commande suivante pour lancer le projet : php artisan serve
+4- dans votre navigateur accédez à l'url suivante http://localhost:8000 
